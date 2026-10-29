@@ -52,8 +52,25 @@
 
 ---
 
+## 🎬 Video Demo
+
+<div align="center">
+
+<a href="docs/demo-sidang.mp4">
+  <img src="docs/demo-preview.gif" alt="LCD gerbang keluar ParkEasy: tagihan Rp 5000 untuk plat AB 123 AR, lalu memindai kendaraan berikutnya" width="560">
+</a>
+
+**[▶️ Tonton video demo sidang skripsi lengkap (4:15)](docs/demo-sidang.mp4)**
+
+*Alur lengkap di prototipe: kendaraan masuk → slot terisi terpantau sensor VL53L1X → kendaraan keluar, ditagih di LCD, lalu membayar lewat aplikasi.*
+
+</div>
+
+---
+
 ## 📋 Daftar Isi
 
+- [🎬 Video Demo](#-video-demo)
 - [🎯 Fitur Utama](#-fitur-utama)
 - [🔧 Komponen Hardware](#-komponen-hardware)
 - [📌 Pin Mapping & Wiring](#-pin-mapping--wiring)
